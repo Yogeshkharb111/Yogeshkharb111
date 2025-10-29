@@ -12,12 +12,11 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
-- 🎓 CSE @ **Lovely Professional University**
-- 💼 Data Science Intern @ **GeeksForGeeks**
-- 🧠 Currently Learning: **Deep Learning**, **FastAPI**, and **MERN Stack**
-- 🤖 Interested in **AI Agents**, **RAG Systems**, and **Predictive Modeling**
-- 📊 Passionate about turning complex data into powerful insights
-- 💬 Tech Stack: **Python**, **TensorFlow**, **React**, **LangChain**, **SQL**, **Machine Learning**
+- 🎓 2026 CSE @ **Lovely Professional University**  
+- 🧠 Expertise In: **Machine Learning**, **Deep Learning**, **RAG**, **Generative AI**, **FastAPI**, and **NLP**  
+- 🤖 Passionate About: **AI Agents**, **LangChain**, **TensorFlow**, **Keras**, and **Smart Automation**  
+- 🧩 Skilled in developing **end-to-end ML/DL systems**, **AI-powered applications**, and **data-driven APIs**  
+- 💬 Tech Stack: **Python**, **TensorFlow**, **Keras**, **LangChain**, **FastAPI**, **React**, **SQL**, **NLP**, **Machine Learning**, **Deep Learning**
 
 ---
 
@@ -34,6 +33,7 @@
 | 📁 Project | 🚀 Description |
 |-----------|----------------|
 | 🤖 [**WealthQuery AI – RAG Data Query System**](https://github.com/Yogeshkharb111/Natural-Language-Cross-Platform-Data-Query-RAG-Agent) | Full-stack AI system to query MongoDB + MySQL in plain English using LangChain, OpenAI GPT, and React. |
+| 🎓 [**EduNomad – AI-Powered E-Learning App**](https://github.com/Yogeshkharb111/EduNomad-AI-Powered-E-Learning-App) | Android app with interactive courses, quizzes, and a Gemini API chatbot for instant academic support. Integrated Firebase Auth & Firestore for real-time learning experiences. |
 | 💊 [**Medical Insurance Charges Prediction System**](https://github.com/Yogeshkharb111/Medical-Insurance-Charges-Prediction-System) | ML-based system for predicting medical insurance costs using Random Forest & Linear Regression models. |
 | 🐱 [**Cats vs Dogs – CNN Classifier**](https://github.com/Yogeshkharb111/AI-Text-to-ImageGenerator) | Deep Learning CNN model for image classification with visualization and custom prediction module. |
 | 📊 [**COVID-19 Dashboard (Tableau)**](https://github.com/Yogeshkharb111/COVID-19-in-India-Dashboard-Analysis-using-Tableau) | Interactive Tableau dashboard analyzing COVID-19 data across India. |
@@ -82,7 +82,7 @@
 ---
 
 ### ⚡ Fun Fact
-> 🧩 I connect data, code, and creativity to solve real-world problems.
+> 🚀 I build data-driven, AI-powered systems that think, learn, and evolve.
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
