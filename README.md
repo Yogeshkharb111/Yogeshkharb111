@@ -16,7 +16,7 @@
 - 🧠 Expertise In: **Machine Learning**, **Deep Learning**, **RAG**, **Generative AI**, **FastAPI**, and **NLP**  
 - 🤖 Passionate About: **AI Agents**, **LangChain**, **TensorFlow**, **Keras**, and **Smart Automation**  
 - 🧩 Skilled in developing **end-to-end ML/DL systems**, **AI-powered applications**, and **data-driven APIs**  
-- 💬 Tech Stack: **Python**, **TensorFlow**, **Keras**, **LangChain**, **FastAPI**, **React**, **SQL**, **NLP**, **Machine Learning**, **Deep Learning**
+- 💬 Tech Stack: **Python**, **TensorFlow**, **Keras**, **LangChain**, **FastAPI**, **React**, **SQL**, **NLP**, **Machine Learning**, **Deep Learning**, **Fine Tunning**,         **LoRa**, **QLoRa**, **Quantization**
 
 ---
 
